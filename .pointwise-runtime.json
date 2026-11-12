@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "kind": "cli",
+  "setup": [],
+  "verify": [
+    "python3",
+    "checks.py",
+    "verify"
+  ],
+  "demo": [
+    "python3",
+    "checks.py",
+    "demo"
+  ]
+}

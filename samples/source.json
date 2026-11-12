@@ -1,0 +1,52 @@
+{
+  "packets": [
+    {
+      "packet": "R-17",
+      "revision": 1,
+      "files": [
+        {
+          "path": "主表.pdf",
+          "media": "application/pdf",
+          "body": "JVBERi0xLjQKJSVFT0YK"
+        },
+        {
+          "path": "附件/empty.txt",
+          "media": "text/plain",
+          "body": ""
+        },
+        {
+          "path": "附件/A.txt",
+          "media": "text/plain",
+          "body": "YWJjCg=="
+        }
+      ]
+    },
+    {
+      "packet": "R-17",
+      "revision": 2,
+      "files": [
+        {
+          "path": "主表.pdf",
+          "media": "application/pdf",
+          "body": "JVBERi0xLjQKcmV2MgolJUVPRgo="
+        },
+        {
+          "path": "附件/a.txt",
+          "media": "text/plain",
+          "body": "YWJjCg=="
+        }
+      ]
+    },
+    {
+      "packet": "R-18",
+      "revision": 1,
+      "files": [
+        {
+          "path": "copy.bin",
+          "media": "application/octet-stream",
+          "body": "YWJjCg=="
+        }
+      ]
+    }
+  ]
+}
